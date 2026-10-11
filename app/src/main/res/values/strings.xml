@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iTantra Mesh</string>
+    <string name="mesh_notification_channel_id">mesh_service_channel</string>
+    <string name="mesh_notification_channel_name">Mesh Service</string>
+    <string name="mesh_notification_title">iTantra Mesh Active</string>
+    <string name="mesh_notification_desc">Maintaining Bluetooth mesh connectivity and relaying offline messages.</string>
+</resources>
